@@ -1,7 +1,25 @@
-# Introduction To Python
+# Introducción al análisis de datos
 
-Here we will see a basic introduction to the main objects in Python, which are fundamental to understand Python syntax and create different projects.
+Aquí veremos una introducción básica a los principales objetos de Python, que son fundamentales para comprender la sintaxis de Python y crear diferentes proyectos.
 
-All you will see here is information collected throughout my learning process. Many of the notes are taken through Internet courses, videos on YouTube as well as many of the datasets come from the Kaggle platform.
+Todo lo que verá aquí es información recopilada a lo largo de mi proceso de aprendizaje. Muchas de las notas se toman a través de cursos de Internet, videos en YouTube y muchos de los conjuntos de datos provienen de la plataforma Kaggle.
 
-All the best
+En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
+
+
+
+
+1. Array Functions (Libreriía Numpy):
+
+
+[Imagen]("")
+
+
+
+
+
+
+
+
+
+
