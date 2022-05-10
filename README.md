@@ -9,10 +9,10 @@ En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
 
 
 
-1. Array Functions (Libreriía Numpy):
+1. Array Functions (Librería Numpy):
 
 
-[Imagen]("")
+[Imagen]("https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/PNGs/ImagenPrueba.PNG")
 
 
 
