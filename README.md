@@ -6,23 +6,35 @@ Todo lo que verá aquí es información recopilada a lo largo de mi proceso de a
 
 En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
 
+<br>
 
 
 
-1. Read Files (Pandas):
+## 1. Read Files (Pandas):
+<br>
+
 ![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/RF_JN.JPG)
 
-2. Create Dataframes (Pandas):
-![Imagen]
+## 2. Create Dataframes (Pandas):
+<br>
 
-3. Plots Settings (Matplotlib & Seaborn):
-![Imagen]
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/DF_JN.JPG)
 
-4. Intro Arrays (Numpy):
-![Imagen]
 
-5. Array Functions (Numpy):
-![Imagen]
+## 3. Plots Settings (Matplotlib & Seaborn):
+<br>
+
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/PLT_JN.JPG)
+
+## 4. Intro Arrays (Numpy):
+<br>
+
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/NUM_1_JN.JPG)
+
+## 5. ARRAY FUNCTIONS (Numpy):
+<br>
+
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/NUM_2JN.JPG)
 
 
 
