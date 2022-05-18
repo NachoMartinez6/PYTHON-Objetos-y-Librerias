@@ -9,13 +9,17 @@ En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
 
 
 
-1. Array Functions (Librería Numpy):
+1. Read Files (Pandas):
 
+2. Create Dataframes (Pandas):
 
-![Numpy]("https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/PNGs/ImagenPrueba.PNG")
+3. Plots Settings (Matplotlib & Seaborn):
+ 
+4. Intro Arrays (Numpy):
 
+5. Array Functions (Numpy):
 
-![Numpy](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/image_1_arrays.JPG)
+![Imagen]
 
 
 
