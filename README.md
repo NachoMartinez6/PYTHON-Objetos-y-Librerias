@@ -12,8 +12,6 @@ En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
 1. Array Functions (Librería Numpy):
 
 
-![Numpy]("https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/PNGs/ImagenPrueba.PNG")
-
 
 ![Numpy](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/image_1_arrays.JPG)
 
