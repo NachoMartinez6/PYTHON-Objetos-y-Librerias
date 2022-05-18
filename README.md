@@ -15,16 +15,19 @@ En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
 
 2. Create Dataframes (Pandas):
 
-![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/Muestra_2.JPG)
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/DF_JN.JPG)
 
 3. Plots Settings (Matplotlib & Seaborn):
-![Imagen]
+
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/PLT_JN.JPG)
 
 4. Intro Arrays (Numpy):
-![Imagen]
+
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/NUM_1_JN.JPG)
 
 5. Array Functions (Numpy):
-![Imagen]
+
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/NUM_2JN.JPG)
 
 
 
