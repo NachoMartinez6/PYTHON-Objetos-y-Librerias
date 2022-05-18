@@ -10,15 +10,18 @@ En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
 
 
 1. Read Files (Pandas):
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/RF_JN.JPG)
 
 2. Create Dataframes (Pandas):
+![Imagen]
 
 3. Plots Settings (Matplotlib & Seaborn):
- 
+![Imagen]
+
 4. Intro Arrays (Numpy):
+![Imagen]
 
 5. Array Functions (Numpy):
-
 ![Imagen]
 
 
