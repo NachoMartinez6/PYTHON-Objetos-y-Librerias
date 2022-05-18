@@ -1,4 +1,4 @@
-# Introducción al análisis de datos
+# Objetos & Librerias de Python
 
 Aquí veremos una introducción básica a los principales objetos de Python, que son fundamentales para comprender la sintaxis de Python y crear diferentes proyectos.
 
