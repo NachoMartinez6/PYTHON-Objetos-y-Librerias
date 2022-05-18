@@ -13,7 +13,7 @@ En este repositorio, trataremos diferentes librerias Y OBJETOS DE Python.
 ![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/RF_JN.JPG)
 
 2. Create Dataframes (Pandas):
-![Imagen]
+![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/Muestra_2.JPG)
 
 3. Plots Settings (Matplotlib & Seaborn):
 ![Imagen]
