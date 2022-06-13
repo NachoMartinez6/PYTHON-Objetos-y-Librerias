@@ -15,23 +15,23 @@ En este repositorio, trataremos diferentes librerias y objetos.
 
 ![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/RF_JN.JPG)
 
-## 2. Create Dataframes (Pandas):
+## [2. Create Dataframes (Pandas):](https://github.com/StatisticsWithJIMP/PYTHON-Objetos-y-Librerias/blob/main/jupyter%20notebooks/LISTS%20%26%20DATAFRAMES.ipynb)
 <br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/DF_JN.JPG)
 
 
-## 3. Plots Settings (Matplotlib & Seaborn):
+## [3. Plots Settings (Matplotlib & Seaborn):](https://github.com/StatisticsWithJIMP/PYTHON-Objetos-y-Librerias/blob/main/jupyter%20notebooks/PLOTS%20%26%20VISUALIZATIONS.ipynb)
 <br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/PLT_JN.JPG)
 
-## 4. Intro Arrays (Numpy):
+## [4. Intro Arrays (Numpy):](https://github.com/StatisticsWithJIMP/PYTHON-Objetos-y-Librerias/blob/main/jupyter%20notebooks/TYPES%20OF%20ARRAYS.ipynb)
 <br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/NUM_1_JN.JPG)
 
-## 5. ARRAY FUNCTIONS (Numpy):
+## [5. ARRAY FUNCTIONS (Numpy):](https://github.com/StatisticsWithJIMP/PYTHON-Objetos-y-Librerias/blob/main/jupyter%20notebooks/ARRAY%20FUNCTIONS.ipynb)
 <br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/Analisis-de-datos-con-Python/blob/main/JPGs/NUM_2JN.JPG)
